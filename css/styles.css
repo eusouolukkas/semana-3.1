@@ -1,0 +1,22 @@
+p {
+    color: red;
+}
+
+.texto-maiusculo {
+    text-transform: uppercase;
+    color: blue;
+}
+
+#texto-azul {
+    color: blue;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    color: #202124;
+    border: 15px solid green;
+    background-color: chartreuse;
+}
