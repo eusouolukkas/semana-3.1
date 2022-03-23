@@ -4,15 +4,16 @@ p {
 
 .texto-maiusculo {
     text-transform: uppercase;
-    color: blue;
+    color: peru;
 }
 
 #texto-azul {
-    color: blue;
+    color: magenta;
 }
 
 body {
     background-color: lightgreen;
+    background-image: url(../images/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg);
 }
 
 h1 {
